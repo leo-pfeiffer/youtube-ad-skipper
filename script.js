@@ -4,7 +4,6 @@
 // @version 0.1
 // @description  Skip ads on youtube
 // @match *://www.youtube.com/*
-// @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
 
 (function() {
